@@ -12,8 +12,7 @@ You can find the dataset in the link provided : https://www.kaggle.com/mlg-ulb/c
 
 Following accuracy was obtained :
 
-              precision    recall  f1-score   support
-
+                 precision  recall   f1-score  support
            0       1.00      1.00      1.00     85296
            1       0.91      0.80      0.86       147
    micro avg       1.00      1.00      1.00     85443
