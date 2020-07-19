@@ -9,3 +9,14 @@ Algorithm : The algorithm used in this dataset is Random Forest algorithm. For m
 Visualisation : The library used for visualizing the data, confusion matrix etc. is seaborn.
 
 You can find the dataset in the link provided : https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+Following accuracy was obtained :
+
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     85296
+           1       0.91      0.80      0.86       147
+
+   micro avg       1.00      1.00      1.00     85443
+   macro avg       0.96      0.90      0.93     85443
+weighted avg       1.00      1.00      1.00     85443
